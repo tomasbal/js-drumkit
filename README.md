@@ -1,2 +1,2 @@
 # js-drumkit
-Simple Drum Kit project, that made using Javascript.
+Simple Drum Kit project, that's made using Javascript.
